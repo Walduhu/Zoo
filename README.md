@@ -1,1 +1,1 @@
-#Ein einfaches, konsolenbasiertes Zoo-Managementsystem in Farbe
+# Ein einfaches, konsolenbasiertes Zoo-Managementsystem in Farbe
